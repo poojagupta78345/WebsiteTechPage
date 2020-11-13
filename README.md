@@ -6,7 +6,7 @@ Traditional Indian gastronomy is a melange of spices and flavours. Akin to the s
 Rice is a staple of south Indian cuisine and is used in most dishes, including the finger-licking masala dosa. While dosa is a generic south Indian dish, masala dosa has specific origins in coastal Karnataka. The preparation of the rice crèpe is relatively simple: rice and lentils are soaked in water for five to six hours to prepare the batter, which is then cooked on a skillet. The types of filling in masala dosa varies, but is usually a potato and onion curry dipped in chutney.
 
 ## Rajm Chawal
-[https://raw.githubusercontent.com/poojagupta78345/WebsiteTechPage/main/Rajma%20Chawal.jpg](Rajma Chawal.jpg)
+![](images/Rajma Chawal.jpg)
 
 This is a very famous and delicious dish in all state, Made with an array of spices, tomatoes, ginger and garlic, rajma chawal is a mouth-watering dish that is adored all over the country. Although the recipe can vary from place to place, the essence is the same.
 
