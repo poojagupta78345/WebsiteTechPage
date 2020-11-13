@@ -2,7 +2,7 @@
 
 Traditional Indian gastronomy is a melange of spices and flavours. Akin to the subcontinent’s cultural and linguistic diversity, culinary style in India varies from place to place. And every sub-cuisine has its own unique take on dishes. Some might be piquant, others less so, but they are all colourful and enticing. Here are 10 traditional Indian dishes you need to try.
 ## Masala Dosa
-https://img.theculturetrip.com/1024x/smart/wp-content/uploads/2020/10/masala-dosa-with-chutney-sauce-and-sambar-india.jpg
+(https://img.theculturetrip.com/1024x/smart/wp-content/uploads/2020/10/masala-dosa-with-chutney-sauce-and-sambar-india.jpg)
 
 ## Jekyll Themes
 
